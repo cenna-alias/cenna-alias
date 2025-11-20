@@ -69,43 +69,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-## ⭐ Popular Repositories
-
-<p align="center">
-
-<a href="https://github.com/cenna-alias/PHARMACIE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=PHARMACIE&theme=radical&hide_border=false" />
-</a>
-
-<a href="https://github.com/cenna-alias/EDVENTURE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=EDVENTURE&theme=radical&hide_border=false" />
-</a>
-
-<a href="https://github.com/cenna-alias/S1-MCA-DS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-DS&theme=radical&hide_border=false" />
-</a>
-
-<a href="https://github.com/cenna-alias/S1-MCA-PYTHON">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-PYTHON&theme=radical&hide_border=false" />
-</a>
-
-<a href="https://github.com/cenna-alias/S1-MCA-WP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-WP&theme=radical&hide_border=false" />
-</a>
-
-</p>
-
----
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cenna-alias&label=Profile%20Views&color=F75C7E&style=flat-square" />
-</p>
-
----
-
-## 🌸 Thanks for Visiting!
 
 
