@@ -71,64 +71,31 @@
 
 ---
 
-
-
 ## ⭐ Popular Repositories
 
 <p align="center">
 
-<!-- PHARMACIE -->
-<div align="center">
-  <a href="https://github.com/cenna-alias/PHARMACIE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=PHARMACIE&theme=radical&hide_border=false" />
-  </a>
-  <br>
-  <i>💊 A clean and modern pharmacy management app built with Flutter.</i>
-</div>
-<br>
+<a href="https://github.com/cenna-alias/PHARMACIE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=PHARMACIE&theme=radical&hide_border=false" />
+</a>
 
-<!-- EDVENTURE -->
-<div align="center">
-  <a href="https://github.com/cenna-alias/EDVENTURE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=EDVENTURE&theme=radical&hide_border=false" />
-  </a>
-  <br>
-  <i>🎮 A fun and interactive kids learning app with Supabase backend.</i>
-</div>
-<br>
+<a href="https://github.com/cenna-alias/EDVENTURE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=EDVENTURE&theme=radical&hide_border=false" />
+</a>
 
-<!-- S1 MCA DS -->
-<div align="center">
-  <a href="https://github.com/cenna-alias/S1-MCA-DS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-DS&theme=radical&hide_border=false" />
-  </a>
-  <br>
-  <i>📘 All Data Structures lab programs for MCA Semester 1.</i>
-</div>
-<br>
+<a href="https://github.com/cenna-alias/S1-MCA-DS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-DS&theme=radical&hide_border=false" />
+</a>
 
-<!-- S1 MCA PYTHON -->
-<div align="center">
-  <a href="https://github.com/cenna-alias/S1-MCA-PYTHON">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-PYTHON&theme=radical&hide_border=false" />
-  </a>
-  <br>
-  <i>🐍 Python lab experiments and mini tasks for MCA Semester 1.</i>
-</div>
-<br>
+<a href="https://github.com/cenna-alias/S1-MCA-PYTHON">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-PYTHON&theme=radical&hide_border=false" />
+</a>
 
-<!-- S1 MCA WP -->
-<div align="center">
-  <a href="https://github.com/cenna-alias/S1-MCA-WP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-WP&theme=radical&hide_border=false" />
-  </a>
-  <br>
-  <i>🌐 Web Programming exercises and projects (HTML, CSS, JS).</i>
-</div>
+<a href="https://github.com/cenna-alias/S1-MCA-WP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cenna-alias&repo=S1-MCA-WP&theme=radical&hide_border=false" />
+</a>
 
 </p>
-
-
 
 ---
 
