@@ -7,13 +7,20 @@
 
 ## 🌼 About Me
 
-🎓 **MCA Student** passionate about mobile app development  
-📱 Building **clean, intuitive & production-ready Flutter apps**  
-🌱 Currently learning **Advanced Flutter, API Integration & Cloud Services**  
+🎓 **MCA Student** passionate about mobile app development 
+
+📱 Building **clean, intuitive & production-ready Flutter apps** 
+
+🌱 Currently learning **Advanced Flutter, API Integration & Cloud Services** 
+
 💡 Interested in **UI/UX design**, **frontend engineering**, and **problem solving**  
-💬 Ask me about **Flutter, Dart, UI/UX, Python basics**  
+
+💬 Ask me about **Flutter, Dart, UI/UX, Python basics** 
+
 📫 Reach me at: **cennaalias29@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/cenna-alias  
+
+🔗 LinkedIn: https://www.linkedin.com/in/cenna-alias 
+
 📸 Instagram: https://instagram.com/cennaa__
 
 ---
@@ -53,13 +60,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cenna-alias&show_icons=true&theme=radical&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenna-alias&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cenna-alias&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -108,6 +108,4 @@
 
 ## 🌸 Thanks for Visiting!
 
-<p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
-</p>
+
