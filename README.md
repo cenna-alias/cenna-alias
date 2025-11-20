@@ -7,14 +7,14 @@
 
 ## 🌼 About Me
 
-- 🎓 **MCA Student** passionate about mobile app development  
-- 📱 Building **clean, intuitive & production-ready Flutter apps**  
-- 🌱 Currently learning **Advanced Flutter, API Integration & Cloud Services**  
-- 💡 Interested in **UI/UX design**, **frontend engineering**, and **problem solving**  
-- 💬 Ask me about **Flutter, Dart, UI/UX, Python basics**  
-- 📫 Reach me at: **cennaalias29@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/cenna-alias  
-- 📸 Instagram: https://instagram.com/cennaa__
+🎓 **MCA Student** passionate about mobile app development  
+📱 Building **clean, intuitive & production-ready Flutter apps**  
+🌱 Currently learning **Advanced Flutter, API Integration & Cloud Services**  
+💡 Interested in **UI/UX design**, **frontend engineering**, and **problem solving**  
+💬 Ask me about **Flutter, Dart, UI/UX, Python basics**  
+📫 Reach me at: **cennaalias29@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/cenna-alias  
+📸 Instagram: https://instagram.com/cennaa__
 
 ---
 
