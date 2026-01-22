@@ -1,39 +1,38 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey+there+👋,+I'm+Cenna+Alias;Flutter+Developer+%7C+MCA+Student;Passionate+about+UI%2FUX+and+App+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hello,+I'm+Cenna+Alias;Flutter+Developer+%7C+MCA+Student;Focused+on+UI%2FUX+and+Scalable+App+Development" />
 </p>
 
 ---
 
-## 🌼 About Me
+## 👤 About Me
 
-🎓 **MCA Student** passionate about mobile app development 
+🎓 **Master of Computer Applications (MCA) Student** with a strong interest in mobile application development  
 
-📱 Building **clean, intuitive & production-ready Flutter apps** 
+📱 Specialized in building **clean, intuitive, and production-ready Flutter applications**  
 
-🌱 Currently learning **Advanced Flutter, API Integration & Cloud Services** 
+🌱 Currently enhancing skills in **advanced Flutter concepts, API integration, and cloud-based services**  
 
-💡 Interested in **UI/UX design**, **frontend engineering**, and **problem solving**  
+🎨 Strong interest in **UI/UX design**, **frontend engineering**, and **problem-solving**  
 
-💬 Ask me about **Flutter, Dart, UI/UX, Python basics** 
+💬 Comfortable discussing **Flutter, Dart, UI/UX principles, and Python fundamentals**  
 
-📫 Reach me at: **cennaalias29@gmail.com**  
+📫 **Email:** cennaalias29@gmail.com  
 
-🔗 LinkedIn: https://www.linkedin.com/in/cenna-alias 
-
-📸 Instagram: https://instagram.com/cennaa__
+🔗 **LinkedIn:** https://www.linkedin.com/in/cenna-alias  
+📸 **Instagram:** https://instagram.com/cennaa__
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cenna-alias)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/cennaa__)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cennaalias29@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cennaalias29@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### **Languages & Frameworks**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
@@ -44,14 +43,14 @@
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cenna-alias&theme=radical&hide_border=true" height="180" />
@@ -64,10 +63,8 @@
 
 ---
 
-## ✨ Random Dev Quote
+## 💡 Developer Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-
-
