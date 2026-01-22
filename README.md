@@ -9,25 +9,22 @@
 
 🎓 **Master of Computer Applications (MCA) Student** with a strong interest in mobile application development  
 
-📱 Specialized in building **clean, intuitive, and production-ready Flutter applications**  
+📱 Focused on building **clean, intuitive, and production-ready Flutter applications**  
 
-🌱 Currently enhancing skills in **advanced Flutter concepts, API integration, and cloud-based services**  
+🌱 Currently learning **advanced Flutter, API integration, and cloud services**  
 
-🎨 Strong interest in **UI/UX design**, **frontend engineering**, and **problem-solving**  
+🎨 Interested in **UI/UX design**, **frontend engineering**, and **problem-solving**  
 
-💬 Comfortable discussing **Flutter, Dart, UI/UX principles, and Python fundamentals**  
+💬 Ask me about **Flutter, Dart, UI/UX principles, and Python fundamentals**  
 
 📫 **Email:** cennaalias29@gmail.com  
-
 🔗 **LinkedIn:** https://www.linkedin.com/in/cenna-alias  
-📸 **Instagram:** https://instagram.com/cennaa__
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cenna-alias)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/cennaa__)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cennaalias29@gmail.com)
 
 ---
@@ -53,12 +50,27 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cenna-alias&theme=radical&hide_border=true" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=cenna-alias&show_icons=true&theme=radical&hide_border=true" 
+    height="180"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cenna-alias&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenna-alias&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenna-alias&layout=compact&theme=radical&hide_border=true" 
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=cenna-alias&theme=radical&hide_border=true" 
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
