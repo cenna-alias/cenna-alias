@@ -21,8 +21,6 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/cenna-alias 
 
-📸 Instagram: https://instagram.com/cennaa__
-
 ---
 
 ## 🌐 Socials
