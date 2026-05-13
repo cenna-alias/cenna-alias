@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey+there+👋,+I'm+Cenna+Alias;Flutter+Developer+%7C+MCA+Student;Passionate+about+UI%2FUX+and+App+Development" />
-</p>
-
----
 
 ## 🌼 About Me
 
